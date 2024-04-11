@@ -14,7 +14,7 @@ This Streamlit web application utilizes the Gemini Pro model to answer questions
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/gemini-pro-pdf-qa-app.git
+    git clone https://github.com/your-username/Gemini-PDF-QA.git
     ```
 
 2. Navigate into the project directory:
