@@ -20,7 +20,7 @@ This Streamlit web application utilizes the Gemini Pro model to answer questions
 2. Navigate into the project directory:
 
     ```bash
-    cd gemini-pro-pdf-qa-app
+    cd Gemini-PDF-QA
     ```
 
 3. Install the required dependencies:
@@ -37,7 +37,7 @@ This Streamlit web application utilizes the Gemini Pro model to answer questions
     streamlit run app.py
     ```
 
-2. Access the app in your web browser at `http://localhost:8501`.
+2. Access the app in your web browser at `http://localhost:8501` or try it out at `https://huggingface.co/spaces/Rgoomer/Gemini_QA`.
 
 3. Upload one or more PDF files using the file uploader.
 
